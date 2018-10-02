@@ -3,5 +3,4 @@ Github Trailhead
 
 Making first edit to readme in firstBranch
 
-
-2. Making conflicting change here for new-branch-2
+1. new-branch-1 change here
